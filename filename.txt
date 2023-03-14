@@ -1,7 +1,6 @@
 ## subheader
 
-git add
-git checkout
-git commit -m"Hello Friend"
-git add
-git push -u origin
+git push 
+
+This command finally gets the new file(s) or changes made to the remote repository. 
+It essentially updates the remote repository with all changes made locally
