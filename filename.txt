@@ -1,4 +1,3 @@
-## subheader
 
 git push: 
 This command finally gets the new file(s) or changes made to the remote repository. 
