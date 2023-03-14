@@ -1,6 +1,13 @@
 ## subheader
 
-git push 
-
+git push: 
 This command finally gets the new file(s) or changes made to the remote repository. 
 It essentially updates the remote repository with all changes made locally
+
+git commit:
+this command commits or saves the changes but this only happens locally
+
+git pull:
+Fetches and merges the changes on the remote repository to your local repository updating it to the latest version.
+
+git branch:This command lists all the branches in your repository and tells you what branch you're currently in.  after "git branch". 
